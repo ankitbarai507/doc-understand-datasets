@@ -18,10 +18,10 @@ Following Classes are supported:
 
 Figures
 
-![alt](resources/annotated.png)
+![alt](resources/13.png)
 ## Generating dataset with Random background color
  <b>To make trained model robust to background color variations</b>
  ![alt](resources/4.png)
- ![alt](resources/13.png)
+ ![alt](resources/annotated.png)
 ## Annotation visualiser webapp (Flask based)
 <b>Deployed on Heroku</b> [link](https://annotation-visualiser-app.herokuapp.com/)
