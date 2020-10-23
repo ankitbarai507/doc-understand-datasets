@@ -3,10 +3,21 @@ Aimed at creating configurable largest ever Datasets for Document understanding.
 Table detection, Graphical Entities Detection and recogntion (Deep learning) by Fine tuning CRAFT.
 Datasets collection and synthetic generation of Annotated dataset. <br/>
 
-Novel Methodolgy for Synthetic Dataset generation from Ideation to development (Acknowledge my mentors guidance and support) <br/>
-Various versions of this synthetic document Images generating tool is developed.
-<b> This Tool can generate as many distinct documents as the storage space will allow with all Annotations (char level, word level, Graphical entities, lines, noise, blurness, dullness).</b><br/>
-<b>This makes this tool a candidate for creating the largest ever completely annotated Datasets for All kind of Document Understanding tasks</b>
+Novel Methodolgy for Synthetic Dataset generation from Ideation to development (Acknowledge my mentor's guidance and support) <br/>
+Various versions of this synthetic document Images generating tool is developed. <br/>
+
+## This Tool can generate as many distinct documents as the storage space will allow with all Annotations (char level, word level, Graphical entities, lines, noise, blurness, dullness)
+
+## This makes this tool a candidate for creating the largest ever completely annotated Datasets for All kind of Document Understanding tasks.
+
+<br/>
+Following type of background are supported:
+ - white background
+ - colored background (As in case of magazines, scientific journals etc.)
+ - background with random Gaussian noise
+ - 2D deformations at page level (sine wave, cosine wave)
+ - Brightness/dullness/Blurness Augmentations
+ 
 Following Classes are supported:
 - char
 - word
@@ -16,8 +27,9 @@ Following Classes are supported:
 - Logos
 - check boxes
 - Stamps
-- Tables and Documents
-
+- Tables
+- lines
+- graphical elements
 Figures
 
 ![alt](resources/13.png)
