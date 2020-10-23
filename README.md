@@ -39,10 +39,15 @@ Bag of words for 196 Fonts and 38 font sizes combinations i.e. 7448 bag of words
 - All combinations of character spacing, Case(uppercase, lowercase), length of words(1-20) 
 - <b> Appx. 625 Million images of words generated </b> which is used to generate Document images.
 
-![alt](resources/13.png)
-## Generating dataset with Random background color
- <b>To make trained model robust to background color variations</b>
- ![alt](resources/4.png)
- ![alt](resources/annotated.png)
+## white bg Image with char level annotations
+![alt](resources/12424_10_char_ann.png)
+## white bg Image with all other graphical entities like sign, logo, barcode, qrcode, checkboxes and lines
+ ![alt](resources/74081_1_dense_white_bg_char_ann.png)
+## Colored bg Image with char level annotations
+![alt](resources/16465_100_dull_char_ann.png)
+## Colored bg Image with all other graphical entities like sign, logo, barcode, qrcode, checkboxes and lines
+ ![alt](resources/74067_1_color_bg_char_ann.png)
+## 2D deformations like Sine wave, cosine wave etc.
+ ![alt](resources/test.png)
 ## Annotation visualiser webapp (Flask based)
 <b>Deployed on Heroku</b> [link](https://annotation-visualiser-app.herokuapp.com/)
