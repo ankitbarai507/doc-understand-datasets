@@ -32,6 +32,11 @@ Following Classes are supported:
 - graphical elements
 Figures
 
+Bag of words for 196 Fonts and 38 font sizes combinations i.e. 7448 bag of words, Each bag of word with 24 categories with variation as:
+- All combinations of Alpha, Num and Symbols
+- All combinations of character spacing, Case(uppercase, lowercase), length of words(1-20) 
+- <b> Appx. 625 Million images of words generated </b> which is used to generate Document images.
+
 ![alt](resources/13.png)
 ## Generating dataset with Random background color
  <b>To make trained model robust to background color variations</b>
