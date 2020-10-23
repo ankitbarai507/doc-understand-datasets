@@ -6,6 +6,8 @@ Datasets collection and synthetic generation of Annotated dataset. <br/>
 Novel Methodolgy for Synthetic Dataset generation from Ideation to development (Acknowledge my mentor's guidance and support) <br/>
 Various versions of this synthetic document Images generating tool is developed. <br/>
 
+Note : Initially, Deep models were trained using Tensorflow object detection API, Yolo V3 but later approach shifted on Fine tuning CRAFT, which is based on Affinity between characters and words.
+
 ## This Tool can generate as many distinct documents as the storage space will allow with all Annotations (char level, word level, Graphical entities, lines, noise, blurness, dullness)
 
 ## This makes this tool a candidate for creating the largest ever completely annotated Datasets for All kind of Document Understanding tasks.
