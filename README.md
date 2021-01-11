@@ -12,6 +12,8 @@ Note : Initially, Deep models were trained using Tensorflow object detection API
 
 ## This makes this tool a candidate for creating the largest ever completely annotated Datasets for All kind of Document Understanding tasks.
 
+## Note: The Complete source code is not public because of IPR.
+
 <br/>
 Following type of background are supported:
  - white background
