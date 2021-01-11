@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'sign'
+}
+item {
+    id: 2
+    name: 'logo'
+}
+item {
+    id: 3
+    name: 'stamp'
+}
