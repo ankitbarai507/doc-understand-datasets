@@ -12,7 +12,7 @@ Note : Initially, Deep models were trained using Tensorflow object detection API
 
 ## This makes this tool a candidate for creating the largest ever completely annotated Datasets for All kind of Document Understanding tasks.
 
-## Note: This Research work is under development and yet to be published/patented to be made public and is done in association with Industry.The source code is not public because of Copyrights.
+## Note: The Complete source code is not public because of IPR.
 
 <br/>
 Following type of background are supported:
